@@ -15,12 +15,12 @@ namespace ConsoleUI
             // ColorTest(colorManager);
             BrandManager brandManager = new BrandManager(new EfBrandDal());
             // BrandTest(brandManager);
-            GetCarDetails(carManager);
+            // GetCarDetails(carManager);
         }
 
         private static void BrandTest(BrandManager brandManager)
         {
-            Console.WriteLine(brandManager.GetById(2).BrandName);
+            Console.WriteLine(brandManager.GetById(2).BrandName;
 
             Brand brand1 = new Brand() { BrandName = "BMW" };
             brandManager.Add(brand1);
@@ -60,7 +60,7 @@ namespace ConsoleUI
 
         private static void GetCarDetails(CarManager carManager)
         {
-            foreach (var car in carManager.GetCarDetails())
+            foreach (var car in carManager.GetCarDetails().Data)
             {
                 Console.WriteLine("{0} {1} {2} {3} - {4} -- {5}", car.BrandName, car.ModelName, car.ModelYear, car.ColorName, car.DailyPrice, car.Description);
             }
