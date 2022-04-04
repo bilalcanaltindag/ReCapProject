@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "RG3DKHrmgr3dvyS2+m5LnKh+dk0qyODDJrsa1Aiuic8psdxalXOel/nXCs+Q2GkXbgtNK43g8HPxDFeo7Gs+EQ==",
+  "dgSpecHash": "uzU1JmxU5kc2JdbB8ZsMicUd4RtrlTkLvzEO2M6Fh1ZZMSCGPKJfVnCzAP/EOQMGBsa48D2cKm3jjhdOpWXhBg==",
   "success": true,
   "projectFilePath": "C:\\Users\\bilal\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\bilal\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
     "C:\\Users\\bilal\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\bilal\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\bilal\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

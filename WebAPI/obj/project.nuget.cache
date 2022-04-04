@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KzO0ZAl1nAE0IhYQNrzsEEQiMtNdryz71e2Ran16CBwUS4iV7q0Nrkik2kONI2VPU3NZlAaJvA8LDMY6FrPe1Q==",
+  "dgSpecHash": "nhNd0aIg3jdYqpkDMS5SNEmVaPP/KwXUsRZ/QQvoPw3ciqCPrybT0K7+pixsbJIWc7u++rLO4shbqeJIbW4Jjw==",
   "success": true,
   "projectFilePath": "C:\\Users\\bilal\\source\\repos\\ReCapProject\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\bilal\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
     "C:\\Users\\bilal\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\bilal\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\bilal\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
     "C:\\Users\\bilal\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\bilal\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\bilal\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

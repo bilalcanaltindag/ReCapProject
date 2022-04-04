@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "NsDjZHnUW/SmhGw9rmTKmVCW8zf+zorcZKS8xo9ThoobvonZ0N30twuFKLWaAM7BhYCPVf7mHvEC4PnNlEIdYg==",
+  "dgSpecHash": "P6aXiRJx0QYFJPogEj3S5brHQp9C/YIRDzdS/kgN79YbdIELux3+GrKdWfb+otnBjfRw1MKfkrSjqoD7Id3HGg==",
   "success": true,
   "projectFilePath": "C:\\Users\\bilal\\source\\repos\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bilal\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\bilal\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\bilal\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\bilal\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
     "C:\\Users\\bilal\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\bilal\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\bilal\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
