@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "P6aXiRJx0QYFJPogEj3S5brHQp9C/YIRDzdS/kgN79YbdIELux3+GrKdWfb+otnBjfRw1MKfkrSjqoD7Id3HGg==",
+  "dgSpecHash": "1qamJkAo3IgVTak/eDQV9vy0nnY9kTIid3hQsqsk0Hv0O9Nv96hBvWfRglhUZ/6SN/GKa4bDdp2UqlesQsENiQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\bilal\\source\\repos\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bilal\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\bilal\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
     "C:\\Users\\bilal\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\bilal\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\bilal\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
